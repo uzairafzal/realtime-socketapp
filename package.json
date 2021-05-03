@@ -1,0 +1,24 @@
+{
+  "name": "realtime-socketapp",
+  "version": "1.0.0",
+  "description": "Online Multiplayer Realtime 3D Chess using threejs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzairafzal/realtime-socketapp.git"
+  },
+  "author": "uzairafzal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzairafzal/realtime-socketapp/issues"
+  },
+  "homepage": "https://github.com/uzairafzal/realtime-socketapp#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socketio": "^1.0.0"
+  }
+}
